@@ -1,0 +1,59 @@
+Notes for the project
+
+IMPORTANT:
+ADMIN ACCOUNT CREDENTIALS:
+    USERNAME: Admin
+    PASSWORD: password
+
+------------------------------------------------------------------
+
+GYM MEMBERSHIP SYSTEM PROGRAM STRUCTURE
+
+Graphical user interface program of the gym membership system
+
+Login:
+
+    Username
+
+    Password
+
+    Enter button
+
+    Membership page/information
+
+    Back or exit button
+
+------------------------------------------------------------------
+
+See membership and create account:
+
+    Gym membership options and monthly costs
+
+    Username
+
+    Password
+
+    Payment type
+
+    Enter button
+
+    Membership page
+
+    Back or exit button
+
+------------------------------------------------------------------
+
+Administrator:
+
+This admin account should contain a pre-established account so that the admin can access.
+
+Superuser name
+
+Password
+
+Enter Button
+
+Display all current gym memberships information:
+
+    Info is displayed in an array {username, password}
+
